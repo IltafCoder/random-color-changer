@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/random-color-changer/static/css/main.700e12ca.css",
+    "main.js": "/random-color-changer/static/js/main.5762d81b.js",
+    "index.html": "/random-color-changer/index.html",
+    "main.700e12ca.css.map": "/random-color-changer/static/css/main.700e12ca.css.map",
+    "main.5762d81b.js.map": "/random-color-changer/static/js/main.5762d81b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.700e12ca.css",
+    "static/js/main.5762d81b.js"
+  ]
+}
